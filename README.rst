@@ -7,6 +7,12 @@ django-pagseguro
 
 Aplicação para facilitar integração do django com pagseguro.
 
+Instalação
+-----------------------------------
+
+pip install git+git://github.com/willemallan/django-pagseguro.git
+
+
 Configurando a app django-pagseguro
 -----------------------------------
 
